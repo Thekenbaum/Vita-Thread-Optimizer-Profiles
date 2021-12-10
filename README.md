@@ -31,3 +31,8 @@ These two profiles were tested using 444mhz overclock and native resolution.
 Two profiles included, High intensity and Final. The Final profile increases the average FPS and is more consistant
 while High Intencity boost FPS to as high as it can go while sacrificing some FPS consistancy (not much though).
 Select which profile you wish to use.
+
+# Gal*gun: Double Peace (US Version) Profile by: Thekenbaum
+Profile was tested with 444mhz overclock.
+The game runs a little better but unfortunately the games main bottle neak seems to be the graphics processor.
+Don't expect this to work some miracles, but this is at least a little better.
