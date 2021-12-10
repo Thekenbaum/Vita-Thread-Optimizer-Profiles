@@ -11,9 +11,9 @@ https://forum.devchroma.nl/index.php/topic,210.0.html
 One that is done, simply select the profile you want and move the "ThreadOptimizer"
 folder into your UX0:/Data folder on your vita.
 ------------------------------------------------------------------------------------------------------
-#Additional Notes for certain profiles
+# Additional Notes for certain profiles
 
-#Jak and Daxter: The precursor Legacy
+# Jak and Daxter: The precursor Legacy
 This profile is meant to be combined with Vitagrafix to run the game at native resolution at 30fps.
 This profile works pretty well as long as you overclock your vita to 444mhz.
 Some lag is still present when picking power cells and some very minor graphical glitches happen
